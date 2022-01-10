@@ -17,7 +17,6 @@
 - Python        (1 year)
 - Racket        (1 year)
 - Lua           (1 year)
-- RobotC        (2 years)
 
 <!-- ## 🔭 I’m currently working on
 - A websocket based
