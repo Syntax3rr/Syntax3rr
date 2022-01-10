@@ -7,6 +7,18 @@
 - I'm a Bass Clarinet-ist.
 - I'm atrocious at visual design.
 
+## 💬 Languages
+- English       (Known for 17 years)
+- Vietnamese    (Known for 17 years)
+- French        (Some) 
+- C++           (2+ years experience)
+- Javascript    (2+ years experience)
+- Java          (1 year experience)
+- Python        (1 year experience)
+- Racket        (1 year experience)
+- Lua           (1 year experience)
+- RobotC        (2 years experience)
+
 <!-- ## 🔭 I’m currently working on
 - A websocket based
 - -->
@@ -14,7 +26,7 @@
 ## 🌱 I’m currently learning
 - Electron
 - ThreeJS
-- Lua (Slowly, and for a single project)
+- C
 
 ## 📫 How to reach me
 - ✉️ Electronic Mail: Syntax3rr@gmail.com
