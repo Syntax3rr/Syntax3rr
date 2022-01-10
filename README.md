@@ -8,16 +8,16 @@
 - I'm atrocious at visual design.
 
 ## 💬 Languages
-- English       (Known for 17 years)
-- Vietnamese    (Known for 17 years)
+- English
+- Vietnamese
 - French        (Some) 
-- C++           (2+ years experience)
-- Javascript    (2+ years experience)
-- Java          (1 year experience)
-- Python        (1 year experience)
-- Racket        (1 year experience)
-- Lua           (1 year experience)
-- RobotC        (2 years experience)
+- C++           (2+ years)
+- Javascript    (2+ years)
+- Java          (1 year)
+- Python        (1 year)
+- Racket        (1 year)
+- Lua           (1 year)
+- RobotC        (2 years)
 
 <!-- ## 🔭 I’m currently working on
 - A websocket based
