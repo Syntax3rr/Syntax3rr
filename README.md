@@ -11,12 +11,12 @@
 - English
 - Vietnamese
 - French        (Some) 
-- C++           (2+ years)
+- C/C++           (2+ years)
 - Javascript    (2+ years)
 - Java          (1 year)
 - Python        (1 year)
 - Racket        (1 year)
-- Lua           (1 year)
+- Lua           (3+ months)
 
 <!-- ## 🔭 I’m currently working on
 - A websocket based
