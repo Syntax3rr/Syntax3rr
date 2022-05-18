@@ -25,7 +25,6 @@
 ## 🌱 I’m currently learning
 - Electron
 - ThreeJS
-- C
 
 ## 📫 How to reach me
 - ✉️ Electronic Mail: Syntax3rr@gmail.com
