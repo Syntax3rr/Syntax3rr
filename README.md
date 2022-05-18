@@ -31,7 +31,6 @@
 - 📷 Instant Telegram: @Syntax3rr
 - 🐦 Carrier Pigeon: @Syntax3rr_
 - 🎮 Cordless Chaos: @Syntax3rr#2072
-- 👽 Have-Read-List (Really scraping the bottom of the barrel for this): Unkn0wn_Invalid
 
 <!--
 ## ⚡ Fun fact
