@@ -13,7 +13,7 @@
 - Vietnamese
 - French        (Some) 
 - C/C++           (2+ years)
-- Javascript    (2+ years)
+- Javascript    (3+ years)
 - Java          (1 year)
 - Python        (1 year)
 - Racket        (1 year)
