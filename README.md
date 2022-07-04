@@ -5,6 +5,7 @@
 - I've been in Robotics Club all throughout highschool
 - My interests include... uh... everything? (e.g., art, music, hardware, software, lockpicking, american law, anime, etc.)
 - I'm a Bass Clarinet-ist.
+- I like to get around via electric unicycle
 - I'm atrocious at visual design.
 
 ## 💬 Languages
@@ -19,12 +20,12 @@
 - Lua           (3+ months)
 
 <!-- ## 🔭 I’m currently working on
-- A websocket based
+-
 - -->
 
 ## 🌱 I’m currently learning
-- Electron
 - ThreeJS
+- Machine Learning
 
 ## 📫 How to reach me
 - ✉️ Electronic Mail: Syntax3rr@gmail.com
