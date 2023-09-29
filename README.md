@@ -11,21 +11,18 @@
 ## 💬 Languages
 - English
 - Vietnamese
-- French        (Some) 
-- C/C++           (2+ years)
-- Javascript    (3+ years)
-- Java          (1 year)
-- Python        (1 year)
-- Racket        (1 year)
-- Lua           (3+ months)
+- French (Some) 
+- C/C++
+- Javascript
+- Java
+- Kotlin
+- Python
+- Racket
+- Lua (Regrettably)
 
 <!-- ## 🔭 I’m currently working on
 -
 - -->
-
-## 🌱 I’m currently learning
-- ThreeJS
-- Machine Learning
 
 ## 📫 How to reach me
 - ✉️ Electronic Mail: Syntax3rr@gmail.com
