@@ -11,8 +11,8 @@
 ## 💬 Languages
 - English
 - Vietnamese
-- French (Some) 
 - C/C++
+- C#
 - Javascript
 - Java
 - Kotlin
