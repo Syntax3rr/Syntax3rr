@@ -25,7 +25,7 @@
 - -->
 
 ## 📫 How to reach me
-- ✉️ E-Mail: truongtdan@gmail.com
+- ✉️ E-Mail: contact@dantruong.ca
 - 📷 Instagram: @Syntax3rr
 - 🎮 Discord: @Syntax3rr
 - Linked-In: https://www.linkedin.com/in/syntax3rr/
