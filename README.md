@@ -12,7 +12,7 @@
 - Vietnamese
 - C/C++
 - C#
-- Javascript
+- Javascript/Typescript
 - Java
 - Kotlin
 - Python
