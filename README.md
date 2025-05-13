@@ -2,8 +2,7 @@
 
 ## 📖 About Me
 - University of Waterloo Honors Computer Science (with Co-op), graduating in 2026.
-- I've been in Robotics Club all throughout highschool
-- My interests include... uh... everything? (e.g., art, music, hardware, software, lockpicking, anime, etc.)
+- My interests include... uh... everything? (e.g., art, music, hardware, software, photography, coffee, anime, etc.)
 - I'm a Bass Clarinet-ist.
 - I like to get around via electric unicycle
 - I'm atrocious at visual design.
